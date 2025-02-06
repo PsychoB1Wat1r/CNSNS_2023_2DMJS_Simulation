@@ -13,6 +13,7 @@ If you find this repository useful, please cite our paper.
   year={2023},
   publisher={Elsevier}}
 ```
+## Explanation:
 We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical optimization and simulation for the proposed **AETHC** method.
 
 ## Mosek Solver:
