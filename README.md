@@ -1,4 +1,5 @@
-## H∞ AETC for 2DMJSs
+## AETHC for 2D MJSs subject to networked random packet losses
+
 This repository contains the code implementation of our CNSNS_2023 paper [here](https://www.sciencedirect.com/science/article/abs/pii/S100757042300374X).
 
 If you find this repository useful, please cite our paper.
@@ -12,7 +13,7 @@ If you find this repository useful, please cite our paper.
   year={2023},
   publisher={Elsevier}}
 ```
-We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical optimization and simulation for the proposed **AETC** method.
+We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical optimization and simulation for the proposed **AETHC** method.
 
 ## Mosek Solver:
 Mosek is a high-performance mathematical optimization solver specifically designed for convex optimization problems. For official documentation, please refer to this [link](https://www.mosek.com/documentation/).
