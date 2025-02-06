@@ -14,7 +14,7 @@ If you find this repository useful, please cite our paper.
   publisher={Elsevier}}
 ```
 ## Explanation:
-We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical optimization and simulation for the proposed **AETHC** method.
+We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical solution and simulation for the proposed **AETHC** method.
 
 ## Mosek Solver:
 Mosek is a high-performance mathematical optimization solver specifically designed for convex optimization problems. For official documentation, please refer to this [link](https://www.mosek.com/documentation/).
